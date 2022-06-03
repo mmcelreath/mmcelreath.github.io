@@ -1,20 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Automation Creations</title>
-    <link>http://mmcelreath.github.io/</link>
-    <description>Recent content on Automation Creations</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jun 2022 22:23:08 -0400</lastBuildDate><atom:link href="http://mmcelreath.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome</title>
-      <link>http://mmcelreath.github.io/posts/welcome/</link>
-      <pubDate>Thu, 02 Jun 2022 22:23:08 -0400</pubDate>
-      
-      <guid>http://mmcelreath.github.io/posts/welcome/</guid>
-      <description>Welcome </description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>Automation Creations</title>
+        <link>http://mmcelreath.github.io/</link>
+        <description>Recent content on Automation Creations</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 02 Jun 2022 22:23:08 -0400</lastBuildDate><atom:link href="http://mmcelreath.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Welcome</title>
+        <link>http://mmcelreath.github.io/posts/welcome/</link>
+        <pubDate>Thu, 02 Jun 2022 22:23:08 -0400</pubDate>
+        
+        <guid>http://mmcelreath.github.io/posts/welcome/</guid>
+        <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;
+&lt;p&gt;Welcome. This space will be focusing on topics such as Automation, PowerShell, Azure, AWS, Terraform and more.&lt;/p&gt;
+&lt;h1 id=&#34;youtube-channel&#34;&gt;YouTube Channel&lt;/h1&gt;
+&lt;p&gt;Currently, you can check out my YouTube channel for an introductory lab on using Terraform with Microsoft Azure. It&amp;rsquo;s geared towards beginners that may know a little about each technology but haven&amp;rsquo;t fully jumped in.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA&#34;  title=&#34;Automation Creations YouTube Channel&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;http://mmcelreath.github.io/images/YouTubeChannel.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Automation Creations YouTube Channel&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;techsnips&#34;&gt;TechSnips&lt;/h1&gt;
+&lt;p&gt;I did some videos for &lt;a class=&#34;link&#34; href=&#34;https://techsnips.io/contributors/matt-mcelreath/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TechSnips.com&lt;/a&gt; a few years ago, covering the following topics as well:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Desired State Configuration (DSC)&lt;/li&gt;
+&lt;li&gt;PowerShell&lt;/li&gt;
+&lt;li&gt;AWS Lambda&lt;/li&gt;
+&lt;li&gt;Amazon Simple Email Service (SES)&lt;/li&gt;
+&lt;li&gt;Azure Storage Accounts&lt;/li&gt;
+&lt;li&gt;OpenSSH on Windows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://techsnips.io/contributors/matt-mcelreath/&#34;  title=&#34;TechSnips Contributor Page&#34;
+     target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;http://mmcelreath.github.io/images/TechSnipsPage.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;TechSnips Contributor Page&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d love to hear suggestions for content you&amp;rsquo;d like to see here or on the YouTube Channel so feel free to reach out on twitter. &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/Mmcelreath&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@mmcelreath&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>
