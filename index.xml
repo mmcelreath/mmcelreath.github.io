@@ -9,10 +9,10 @@
     <lastBuildDate>Thu, 02 Jun 2022 22:23:08 -0400</lastBuildDate><atom:link href="http://mmcelreath.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>http://mmcelreath.github.io/posts/welcome/</link>
+      <link>http://mmcelreath.github.io/posts/2022-06-02-welcome/</link>
       <pubDate>Thu, 02 Jun 2022 22:23:08 -0400</pubDate>
       
-      <guid>http://mmcelreath.github.io/posts/welcome/</guid>
+      <guid>http://mmcelreath.github.io/posts/2022-06-02-welcome/</guid>
       <description>Welcome Welcome. This space will be focusing on topics such as Automation, PowerShell, Azure, AWS, Terraform and more.
 YouTube Channel Currently, you can check out my YouTube channel for an introductory lab on using Terraform with Microsoft Azure. It&amp;rsquo;s geared towards beginners that may know a little about each technology but haven&amp;rsquo;t fully jumped in.
 https://www.youtube.com/channel/UCBmvsfL6OKpUBfLArIskOcA
